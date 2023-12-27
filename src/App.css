@@ -1,0 +1,11 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+.nav-link{
+  color: black !important;
+  text-decoration: none;
+}
+.nav-item{
+    padding: 10px 20px;
+}

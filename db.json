@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "productname": "tv",
+      "price": 50000,
+      "available": true,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+      },
+      {
+        "id": 2,
+        "productname": "ac",
+        "price": 150000,
+        "available": true,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+        },
+    {
+      "id": 3,
+      "productname": "fraze",
+      "price": 100000,
+      "available": true,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 4,
+      "productname": "table",
+      "price": 25000,
+      "available": false,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 6,
+      "productname": "batch",
+      "price": 6000,
+      "available": false,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 7,
+      "productname": "fan",
+      "price": 10000,
+      "available": true,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 8,
+      "productname": "watch",
+      "price": 12000,
+      "available": false,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 9,
+      "productname": "laptop",
+      "price": 800000,
+      "available": true,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 10,
+      "productname": "phone",
+      "price": 1800000,
+      "available": false,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 11,
+      "productname": "page",
+      "price": 200000,
+      "available": true,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 12,
+      "productname": "wood",
+      "price": 200000,
+      "available": true,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    },
+    {
+      "id": 13,
+      "productname": "swatch",
+      "price": 180000,
+      "available": true,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam odit obcaecati nihil, veritatis modi harum quia sunt reprehenderit possimus asperiores molestiae hic praesentium. Magni accusantium maxime vero assumenda minus facilis."
+    }
+  ]
+}
